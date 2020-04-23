@@ -1,0 +1,65 @@
+Printing person:
+Doe, John
+
+Printing player:
+Smith, Mary
+   Jersey #: 1
+   Position: cutter
+
+Printing captain:
+Tully, Henry
+   Jersey #: 2
+   Position: handler
+   Captain:  offense
+
+Printing coach:
+Lee, Sara
+   Role: Head coach
+
+Printing team:
+COACHES
+Mathour, Maryam
+   Role: Head Coach
+Van Loben Sels, Soren
+   Role: Assistant Coach
+
+PLAYERS
+
+Trong, Sammy
+   Jersey #: 9
+   Position: handler
+Patel, Jayant
+   Jersey #: 9
+   Position: handler
+Ozaeta, Myra
+   Jersey #: 9
+   Position: cutter
+Holbrook, Lisa
+   Jersey #: 9
+   Position: cutter
+Kvale, Lisbeth
+   Jersey #: 9
+   Position: cutter
+Henry, Malik
+   Jersey #: 9
+   Position: handler
+   Captain:  offense
+Pak, Joseph
+   Jersey #: 9
+   Position: cutter
+   Captain:  defense
+
+Printing cutters:
+
+ Pak, Joseph
+   Jersey #: 9
+   Position: cutter
+   Captain:  defense
+
+Printing handlers:
+
+Henry, Malik
+   Jersey #: 9
+   Position: handler
+   Captain:  offense
+
