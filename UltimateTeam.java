@@ -24,7 +24,15 @@ public class UltimateTeam {
 	{
 		tempString = "empty";
 		
-		// iterate through the string 
+		// PROBLEM AREA
+		/*
+		  In regards to the email i sent i expect this to iterate through every player
+		  check if their position is equal to cutter and if it is print that player 
+		  for some reason it only prints the FIRST player and im not sure why
+		  im not super good at using the enhanced for loop so i think that might be the problem so
+		  if you could jusst check over and see if there is any huge problems that might be inhibiting 
+		  this 
+		*/
 		for(UltimatePlayer i: players)
 		{
 			// ultimate player
