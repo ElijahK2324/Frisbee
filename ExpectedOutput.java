@@ -1,6 +1,6 @@
 package Frisbee;
 
-public class outmine {
+public class ExpectedOutput {
 
 }
 /*
